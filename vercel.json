@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/index.html",
+      "headers": { "content-type": "image/jpeg" }
+    }
+  ]
+}
